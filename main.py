@@ -63,5 +63,6 @@ dangal = media.Movie("Dangal",
                      "https://www.youtube.com/watch?v=x_7YlGv9u1g"
                      )
 movies = [avatar, gladiator, interstellar, fury, dangal, zootopia]
-
+# this function opens the movies page 
+# show the inputs ( listed movies ) as an arraylist
 fresh_tomatoes.open_movies_page(movies)
